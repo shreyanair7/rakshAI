@@ -117,7 +117,7 @@ The platform provides a transparency layer for delivery partners.
 - Active coverage status  
 - Estimated payout likelihood  
 
-This builds trust and awareness.
+This builds trust and awareness
 
 ---
 
