@@ -206,4 +206,4 @@ The platform enables:
 - Automated and fast payouts  
 - Increased trust through transparency  
 
-RakshAI aligns financial protection with the realities of gig work and supports a workforce that operates without traditional safeguards.
+RakshAI aligns financial protection with the realities of gig work and supports a workforce that operates without traditional safeguards
