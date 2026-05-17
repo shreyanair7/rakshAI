@@ -198,7 +198,7 @@ AI is integrated across key system components.
 
 ## 10. Impact
 
-RakshAI provides a structured and responsive safety layer for delivery partners operating in uncertain environments.
+RakshAI provides a structured and responsive safety layer for delivery partners operating in uncertain environments
 
 The platform enables:
 - Protection against short-term income disruptions  
